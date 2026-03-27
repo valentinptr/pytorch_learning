@@ -1,3 +1,7 @@
 torch 
 torchvision 
 torchaudio
+matplotlib
+pandas
+numpy
+jupiter
